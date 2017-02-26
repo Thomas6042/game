@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=p
+comment0.target=Inventory(Player)
+comment1.params=
+comment1.target=void\ getInv()
+comment2.params=
+comment2.target=boolean\ getInvBattle()
+comment3.params=
+comment3.target=void\ getItems()
+comment4.params=x\ b
+comment4.target=void\ setWeapon(int,\ boolean)
+comment5.params=x\ b
+comment5.target=void\ setArmor(int,\ boolean)
+comment6.params=x\ b
+comment6.target=void\ setItem(int,\ boolean)
+comment7.params=x
+comment7.target=Weapon\ getWeapon(int)
+comment8.params=x
+comment8.target=Armor\ getArmor(int)
+comment9.params=x
+comment9.target=Item\ getItem(int)
+numComments=10

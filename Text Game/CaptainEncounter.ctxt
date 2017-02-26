@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=hero\ inv\ cap
+comment0.target=boolean\ run(Player,\ Inventory,\ Enemy)
+numComments=1

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=nm\ desc\ s\ h
+comment0.target=Entity(java.lang.String,\ java.lang.String,\ int,\ int)
+comment1.params=mh
+comment1.target=void\ setMaxHealth(int)
+comment2.params=
+comment2.target=int\ getMaxHealth()
+comment3.params=x
+comment3.target=void\ setAttack(int)
+comment4.params=
+comment4.target=int\ getAttack()
+comment5.params=
+comment5.target=int\ getHealth()
+comment6.params=x
+comment6.target=void\ setHealth(int)
+numComments=7

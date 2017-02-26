@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=n\ d\ h\ a
+comment0.target=Weapon(java.lang.String,\ java.lang.String,\ boolean,\ int)
+comment1.params=
+comment1.target=int\ getAttack()
+numComments=2
